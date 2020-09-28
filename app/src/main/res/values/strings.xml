@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RSS Reader for CFP</string>
+    <string name="feed_url">http://wikicfp.com/cfp/rss</string>
+    <string-array name="categories">
+        <item>Computer Science</item>
+        <item>Natural Language Processing</item>
+        <item>Machine Learning</item>
+        <item>Artificial Intelligence</item>
+        <item>Security</item>
+    </string-array>
+</resources>
